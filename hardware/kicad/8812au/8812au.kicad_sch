@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 11f97137-2c05-4b86-9e59-3251931122ec)
+
+  (paper "A4")
+
+  (title_block
+    (title "8812au")
+    (company "neoxin")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
